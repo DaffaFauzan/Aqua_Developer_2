@@ -7,3 +7,5 @@ git push origin branch name
 
 
 git fetch -> nge cek perubahan atau tidak
+git pull
+git branch 
