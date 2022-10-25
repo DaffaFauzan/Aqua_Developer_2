@@ -1,11 +1,13 @@
+yg wajib dipahami
 urutan
-git init -> inisialisasi * first_time
-git add .  -> track files
-git commit -m "Pesan commit" -> commit
-git remote add origin url_repo - > konek ke repo * first_time
-git push origin branch name
+1)git init -> inisialisasi * first_time
+2)git add .  -> track files
+3)git commit -m "Pesan commit" -> commit
+4)git remote add origin url_repo - > konek ke repo * first_time
+5)git push origin branch name
 
 
 git fetch -> nge cek perubahan atau tidak
 git pull
 git branch 
+git stash
